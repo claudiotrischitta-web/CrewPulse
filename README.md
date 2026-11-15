@@ -120,6 +120,15 @@ React, TypeScript, Vite, Tailwind CSS, Recharts. No backend: the app is static a
 - Dose values for the Moon and ISS during the solar event are illustrative, not measured.
 - The 30-second reaction check is not validated and never triggers an alert.
 
+## Team
+
+Built in Rome for the NASA Space Apps Challenge 2026 by:
+
+- Daniele Carlomusto
+- Federico Fazi
+- Tommaso Mearelli
+- Claudio Trischitta
+
 ## Use of AI tools
 
 <!-- Team: keep this section truthful and complete before submitting. -->

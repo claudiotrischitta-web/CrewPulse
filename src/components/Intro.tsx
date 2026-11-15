@@ -84,7 +84,7 @@ export function Intro({ onClose, onTour }: { onClose: () => void; onTour: () => 
         </div>
 
         <p className="mt-4 text-xs leading-relaxed text-slate-500">
-          Prototype with simulated data, built for the NASA Space Apps Challenge 2026. Not a medical device: it does not diagnose and makes no fitness-for-duty decision.
+          Prototype with simulated data, built for the NASA Space Apps Challenge 2026 by Daniele Carlomusto, Federico Fazi, Tommaso Mearelli and Claudio Trischitta. Not a medical device: it does not diagnose and makes no fitness-for-duty decision.
           Every number on screen links to its source.
           {repo && (
             <> <a href={repo} target="_blank" rel="noreferrer" className="inline-flex items-center gap-1 font-semibold text-navy underline underline-offset-2"><Code2 className="size-3.5" aria-hidden />Source code and references</a></>
