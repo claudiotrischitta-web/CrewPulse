@@ -5,10 +5,6 @@
 Prototype for the NASA Space Apps Challenge 2026, challenge
 [*Create Health Monitoring Software for Astronauts on Space Missions*](https://www.spaceappschallenge.org/2026/challenges/health-monitoring-software/).
 
-> On 14 November 2026 Mars is 11 light-minutes from Earth (NASA/JPL Horizons).
-> A question to the flight surgeon and its answer take at least 22 minutes.
-> The astronaut's first doctor is the astronaut.
-
 **Live demo: <https://claudiotrischitta-web.github.io/CrewPulse/>** (opens with a short guide for judges and a 30-second tour)
 
 All crew data in this repository are **simulated**.
